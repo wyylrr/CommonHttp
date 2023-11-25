@@ -1,0 +1,5 @@
+rootProject.name = "CommonHttpSerial"
+include ':app'
+include ':common'
+include ':okrx'
+include ':okgo'
