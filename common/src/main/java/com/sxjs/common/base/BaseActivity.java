@@ -23,6 +23,8 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.gyf.barlibrary.ImmersionBar;
+import com.lzy.okgo.OkGo;
+import com.lzy.okgo.db.DownloadManager;
 import com.sxjs.common.AppComponent;
 import com.sxjs.common.GlobalAppComponent;
 import com.sxjs.common.R;
